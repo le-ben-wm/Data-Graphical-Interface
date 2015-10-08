@@ -7,6 +7,7 @@ function drawAxisTickColors() {
         ['United States', 887.6242, 105.54],
         ['Brazil', 527.32212, 183.8867],
         ['Germany', 62, 4.3],
+        ['France', 55, 7.9],
         ['Canada', 26.4, 3.7],
         ['Spain', 24, 1.6],
     ]);
